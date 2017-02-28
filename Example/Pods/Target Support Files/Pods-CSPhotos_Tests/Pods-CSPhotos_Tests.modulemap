@@ -1,0 +1,6 @@
+framework module Pods_CSPhotos_Tests {
+  umbrella header "Pods-CSPhotos_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

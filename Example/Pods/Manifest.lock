@@ -1,0 +1,16 @@
+PODS:
+  - CSPhotos (0.1.0)
+
+DEPENDENCIES:
+  - CSPhotos (from `../`)
+
+EXTERNAL SOURCES:
+  CSPhotos:
+    :path: ../
+
+SPEC CHECKSUMS:
+  CSPhotos: 20387dbe588d5cf2bb653c65360415ec21c6da0b
+
+PODFILE CHECKSUM: e79470d51f877ec30a372fbe3173dadd5573f8b4
+
+COCOAPODS: 1.2.0
